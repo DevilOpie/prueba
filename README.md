@@ -12,3 +12,9 @@ Las palabras importantes como ==Saltamontes== esta de colores
 |Tabla |Superchula|
 |------|--------|
 |Lo de arriba |Es una separacion|
+*Esto esta en cursiva porque tambien lo quiero probar*
+**Esto en negrita wapisimo**
+1.Ojala las listas
+2.Me ayudasen
+3.A ordenar mi vida
+4.Porque madre mia

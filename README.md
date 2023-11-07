@@ -7,4 +7,8 @@
 - [ ] Tarea 2
 - [ ] Tarea 3
 ___
-
+## Este texto va a estar de colores
+Las palabras importantes como ==Saltamontes== esta de colores
+|Tabla |Superchula|
+|------|--------|
+|Lo de arriba |Es una separacion|
